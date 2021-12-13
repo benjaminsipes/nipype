@@ -418,6 +418,7 @@ class RegistrationInputSpec(ANTSCommandInputSpec):
         "BSpline",
         "MultiLabel",
         "Gaussian",
+        "genericLabel",
         argstr="%s",
         usedefault=True,
     )
